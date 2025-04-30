@@ -1,0 +1,42 @@
+/* Solidity code block styling */
+pre.solidity-code {
+    background-color: #1e1e1e;
+    color: #dcdcdc;
+    padding: 16px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Highlighting Solidity keywords */
+.solidity-keyword {
+    color: #569cd6;
+    font-weight: bold;
+}
+
+.solidity-type {
+    color: #4ec9b0;
+}
+
+.solidity-function {
+    color: #dcdcaa;
+}
+
+.solidity-identifier {
+    color: #9cdcfe;
+}
+
+.solidity-string {
+    color: #ce9178;
+}
+
+.solidity-number {
+    color: #b5cea8;
+}
+
+.solidity-comment {
+    color: #6a9955;
+    font-style: italic;
+}
